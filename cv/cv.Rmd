@@ -3,7 +3,7 @@ name: Antonio C. da Silva Júnior
 # position: "Cientista de dados"
 address: "Curitiba/PR - Brasil"
 phone: +55 41 987827799
-www: juniorssz.github.io/home/
+www: acsjunior.com
 email: juniorssz@gmail.com
 linkedin: juniorssz
 github: juniorssz
